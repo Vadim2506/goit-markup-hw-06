@@ -711,6 +711,9 @@ a {
 .button-signuptext {
   margin-right: 10px;
 }
+.send-svg-form {
+  margin-left: 10px;
+}
 .send-svg {
   display: flex;
   width: 24px;
